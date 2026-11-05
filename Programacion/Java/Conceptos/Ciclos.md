@@ -8,3 +8,7 @@ Java ofrece cuatro estructuras principales de repeticion:
 
 # Notas
 * En realidad uno puede hacer el mismo trabajo con cualquiera de los ciclos, la única diferencia es que algún ciclo se adapta mejor a nuestras necesidades y no necesitamos hacer arreglos forzados. 
+
+# Lasos
+1. [[Java]]
+2. 

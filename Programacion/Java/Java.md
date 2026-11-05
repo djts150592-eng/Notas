@@ -14,3 +14,7 @@ Java está en todas partes, desde tu teléfono hasta servidores empresariales:
 - **Herramientas de Big Data:** Tecnologías de análisis de datos masivos como Apache Hadoop y Spark se apoyan fuertemente en Java.
 
 # Notas
+
+
+# Lasos
+1. [[Programacion]]

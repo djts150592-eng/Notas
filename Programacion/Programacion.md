@@ -1,0 +1,2 @@
+# Programación
+Desde el punto de vista de la informática, la programación es el conjunto de instrucciones las cuales se le dan a una computadora utilizando un lenguaje de programación para resolver un problema. 
